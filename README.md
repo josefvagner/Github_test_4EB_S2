@@ -3,3 +3,4 @@ This is test repo
 
 - sample 1
 - omg
+- minor changes
